@@ -10,4 +10,5 @@ This table provides an overview and status of the current LIPs for the LEA proje
 | [4](LIP-0004.md) | Core Encoding | Decouple Legacy Index Field from List Context | Allwin Ketnawang | Replaced |
 | [5](LIP-0005.md) | Core Encoding | Generalize Vectors with Explicit Entry Sizes | Allwin Ketnawang | Replaced |
 | [6](LIP-0006.md) | Core Encoding | Replace Core Transaction Encoding (CTE) with Simple Compact Transaction Protocol (SCTP) | Allwin Ketnawang | Proposed |
-| [7](LIP-0007.md) | Application   | Standard LEA Transaction Format | Allwin Ketnawang | Proposed |
+| [7](LIP-0007.md) | Application | Genesis LEA Transaction Decoder Format | Allwin Ketnawang | Draft |
+| [8](LIP-0008.md) | Application | LEA WebAssembly VM's Supported Features | Allwin Ketnawang | Draft |
